@@ -1,1 +1,25 @@
 /* A COMPLETER */
+.detournee{
+text-decoration: underline;
+}
+.contandante{
+font-weight: bold;
+}
+
+article h2, article h3, article h1{
+   color : red;
+}
+.presentation{
+    color : red;
+}
+
+ul {
+    list-style: none;
+}
+#armes {
+color: green;
+}
+img{
+width: 2em;
+height: 2em;
+}

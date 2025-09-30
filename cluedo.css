@@ -19,7 +19,10 @@ ul {
 #armes {
 color: green;
 }
-img{
-width: 2em;
-height: 2em;
+article  img {
+height: 1em;
 }
+aside > img {
+height: 20vw;
+}
+
